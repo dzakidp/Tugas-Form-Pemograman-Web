@@ -7,7 +7,7 @@ h3 {
 }
 body {
     font-family: Arial, sans-serif;
-    background-image: url('assets/gedungitpln.jpeg');
+    background-image: url('gedungitpln.jpeg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -63,5 +63,5 @@ button:hover {
 
 @font-face {
     font-family: PlatinumSign;
-    src: url('fonts/platinum_sign/Platinum Sign Over.ttf');
+    src: url('Platinum Sign Over.ttf');
 }
